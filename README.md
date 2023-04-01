@@ -71,9 +71,10 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
-https://github.com/eerapheal/hello_rails_reacts.git
+https://github.com/eerapheal/frontends.git.git
+
 ```
-  cd hello_rails_reacts
+  cd  frontends
 ```
 
 
