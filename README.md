@@ -21,35 +21,24 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 helloreact_rails App <a name="about-project"></a>
+# 📖 rails React <a name="about-project"></a>
 
 # 📖 Description <a name="Description-Note"></a>
-> Describe your project in 1 or 2 sentences.
+> Describe your project in 1 or 3 sentences.
 
-Hello rails react set up
+This is two repo application with Cors 
 
-### Project presentation link
 
-[Presentation of APP](Cooming soom)
 
-### Live Demo Application link
-
-[Live Demo](Comming soon)
-
-### 🛠️ Built With <a name="built-with"></a>
+## 🛠️ Built With <a name="built-with"></a>
 
 - Ruby on Rails
 - Postgresql
-- Capybera
-- Rspec
-- Cancancan
-- Devise
-- Webpack.
-- React
-- Redux
+- React/Redux
 
 ### Key Features <a name="key-features"></a>
-Connent rails application with react.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -64,47 +53,27 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 - A code editor
-- Ruby installed
-- Ruby on Rails installed
-- Postgresql installed
+- npm install
 
 ### Setup
 
 Clone this repository to your desired folder:
-https://github.com/eerapheal/frontends.git.git
+- https://github.com/eerapheal/reails_backend.git
+- [Frontend Link](https://github.com/eerapheal/frontends
+)
+```
+ cd reails_backend
+```
 
-```
-  cd  frontends
-```
 
-
-### Istall
-install this project with:
-```
-  bundle install
-  ```
-  ```
-  yarn install
-  ```
-  ```
-  rails db:create
-  ```
-  ```
-  rails db:migrate
-```
+### Install
+- npm install
 
 ### Start 
 To start the application, run the following command
 ```
-rails server
+npm run start
 ```
-### Run tests 
-```
-rspec or jest
-```
-### Usage
-
-To run the project, run `ruby <filename>` in your terminal
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,8 +94,7 @@ To run the project, run `ruby <filename>` in your terminal
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Set up payment stytem**
-- **Add UI**
+- Two repo connention
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -141,7 +109,7 @@ To run the project, run `ruby <filename>` in your terminal
 - Push to the branch (git push origin my-new-feature)
 - Create new Pull Request.
 
-Feel free to check the [issues page](https://github.com/eerapheal/hello_rails_reacts/issues).
+Feel free to check the [issues page](https://github.com/eerapheal/reails_backend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
