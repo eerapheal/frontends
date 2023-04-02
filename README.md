@@ -24,7 +24,7 @@
 # 📖 helloreact_rails App <a name="about-project"></a>
 
 # 📖 Description <a name="Description-Note"></a>
-> Describe your project in 1 or 2 sentences.
+
 
 Hello rails react set up
 
