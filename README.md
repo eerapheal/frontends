@@ -26,6 +26,7 @@
 
 # 📖 [Hello world] <a name="about-project"></a>
 
+# 📖 Description <a name="Description-Note"></a>
 
 **[Hello world]** is a project which the frontend is build with React and backend with Rails
 
@@ -68,7 +69,6 @@ Webpack
 - **[Two repo]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 
