@@ -2,7 +2,6 @@
 const SET_GREETING = 'greetings/greetings/SET_GREETING';
 const LINK = 'http://127.0.0.1:3000/api/random_greeting';
 
-// initial state
 const initialState = {
   greeting: '',
 };

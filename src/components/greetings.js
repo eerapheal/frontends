@@ -9,7 +9,6 @@ function Greeting() {
   }, [dispatch]);
 
   const { greeting } = useSelector((state) => state.greetings);
-
   const generate = () => {
     dispatch(fetchGreetingObj());
   };
